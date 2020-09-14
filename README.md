@@ -1,4 +1,4 @@
-# Machien Learning Diabetes Prediction - HackoonSpace 2020/2
+# Machine Learning Diabetes Prediction - HackoonSpace 2020/2
 ## Conception
 This is a Data Science and Machine Learning project that tries to predict early diabetes type two using simple algorithms - such as Decision Tree - just for learning purposes.
 ## Prerequisites and Resources
