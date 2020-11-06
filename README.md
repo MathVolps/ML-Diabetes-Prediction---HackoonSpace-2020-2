@@ -15,7 +15,7 @@ The implementation uses Python language with Google Colaboratory and libraries a
 
 ## Instalattion
 1. Download the repository
-2. Open and run the .ipynb files on Google Collaboratory or Jupyter Notebook <br>
+2. Open and run the .ipynb files on Google Colaboratory or Jupyter Notebook <br>
 *you can do tests and change some hyperparameters of the models to try better results
 
 ## Author
